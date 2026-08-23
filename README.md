@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="陈逸潇：USE AI / BUILD WITH AI" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="一笑：USE AI / BUILD WITH AI" />
 </div>
 
 <div align="center">
   <a href="https://esmile.tech"><img src="https://img.shields.io/badge/个人主页-esmile.tech-58A6FF?style=flat-square" alt="个人主页 esmile.tech" /></a>
-  <a href="mailto:cyx791161473@outlook.com"><img src="https://img.shields.io/badge/邮件-cyx791161473%40outlook.com-30363D?style=flat-square" alt="通过邮件联系陈逸潇" /></a>
+  <a href="mailto:cyx791161473@outlook.com"><img src="https://img.shields.io/badge/邮件-cyx791161473%40outlook.com-30363D?style=flat-square" alt="通过邮件联系一笑" /></a>
 </div>
 
 ## 你好，我是一笑
 
-我本科学的是是社会学和社会数据分析，工作与项目经历集中在互联网产品、数据策略、模型评测和 AIGC（人工智能生成内容）。现在主要在做 AI（人工智能）相关的产品与工作流，也把 AI 用于研究、写作、编程和知识整理。
+我本科学的社会学，研究生学的社会数据分析，算一个出身标准的文科生，工作经历集中在互联网产品、数据策略、模型评测和 AIGC。现在主要在做 AI 相关的产品与工作流，也把 AI 用于研究、写作、编程和知识整理。
+
+
 
 ## 现在在做
 
