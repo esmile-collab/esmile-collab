@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="一笑" />
+  <img src="./assets/profile-banner.gif" width="100%" alt="一笑" />
 </div>
 
 <div align="center">
