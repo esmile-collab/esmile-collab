@@ -2,6 +2,10 @@
   <img src="./assets/profile-banner.gif" width="100%" alt="一笑" />
 </div>
 
+<p align="center">
+  <strong>简体中文</strong> · <a href="README.en.md">English</a>
+</p>
+
 <div align="center">
   <a href="https://esmile.tech"><img src="https://img.shields.io/badge/个人主页-esmile.tech-58A6FF?style=flat-square" alt="个人主页 esmile.tech" /></a>
   <a href="mailto:cyx791161473@outlook.com"><img src="https://img.shields.io/badge/邮件-cyx791161473%40outlook.com-30363D?style=flat-square" alt="通过邮件联系一笑" /></a>
