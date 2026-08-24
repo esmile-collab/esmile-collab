@@ -13,7 +13,7 @@
 
 ## Hi, I'm Yixiao (一笑)
 
-I studied sociology as an undergraduate and I'm now pursuing a master's in social data analysis, while building AI products. Both trainings revolve around the same question: why people act, and how tools change the way they act.
+I studied sociology as an undergraduate and I'm now pursuing a master's in social data analysis at the University of Hong Kong, while building AI products. Both trainings revolve around the same question: why people act, and how tools change the way they act.
 
 My current focus is AIGC (AI-generated content) commercialization, AI products landing in real industries, and AI meeting physical business. Outside of work, I keep turning problems I've hit in real projects into reusable workflows and open-source projects — this page collects the parts that can be public.
 
