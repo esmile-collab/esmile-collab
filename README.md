@@ -35,7 +35,7 @@
 
 AI 项目做的不复杂，重点是怎么发现业务关键点，然后如何融合
 
-## 公开项目（以前做的垃圾）
+## 公开项目（以前做的自嗨的东西）
 
 - **[video-creative-agent](https://github.com/esmile-collab/video-creative-agent)**：串联 brief-文案脚本-分镜脚本+视频知识库的项目（在 b 站做的，脱敏了）
 - **[resume-agent](https://github.com/esmile-collab/resume-agent)**：把简历匹配、生成、局部修改和导出串成一套 AI 辅助工作流。
