@@ -35,10 +35,14 @@
 
 AI 项目做的不复杂，重点是怎么发现业务关键点，然后如何融合
 
-## 公开项目（以前做的自嗨的东西）
+## 公开做的东西
 
-- **[video-creative-agent](https://github.com/esmile-collab/video-creative-agent)**：串联 brief-文案脚本-分镜脚本+视频知识库的项目（在 b 站做的，脱敏了）
-- **[resume-agent](https://github.com/esmile-collab/resume-agent)**：把简历匹配、生成、局部修改和导出串成一套 AI 辅助工作流。
+我没有什么“作品”，但是有一些以前做起来比较嗨的东西。代码、示例和使用方法放在下面几个仓库里。
+
+- **[视频创意工作流 · video-creative-agent](https://github.com/esmile-collab/video-creative-agent)**：围绕中文口播，把创作需求接到策略卡召回、脚本请求编译，再把确认后的脚本整理成可审阅、可导出的分镜。公开版带无需模型密钥的模拟演示，暂不包含自动视频理解和成片合成。
+- **[简历工作台 · resume-agent](https://github.com/esmile-collab/resume-agent)**：围绕简历和岗位要求做匹配评分、定制草稿与局部修改，把个人经历、求职方向和文档版本留在同一个工作区，方便继续修改、查看差异和导出。
+- **[信息采集 Skills · information-collection](https://github.com/esmile-collab/information-collection)**：从研究问题出发，为 B 站、YouTube、X、小红书和 Reddit 选择采集方法，保留字幕、帖子、图片文字及来源记录。把现有采集工具组织成四个可安装的 Skill，方便 Agent 按需调用；登录授权和平台访问限制仍需遵守。
+- **[自建节点指南 · vps-chain-agent-guide](https://github.com/esmile-collab/vps-chain-agent-guide)**：给不熟悉服务器的人整理的一套 Agent 操作指南，从需求和预算选方案，到服务器部署、客户端配置和网络验收。仓库提供 Skill、操作步骤和检查清单，购买付款与关键变更由用户确认。
 
 ## 最近在做
 

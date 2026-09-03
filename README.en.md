@@ -37,10 +37,12 @@ These things look scattered, but they circle one question: how a generated resul
 
 ## Open Work
 
-I try to organize what can be public into materials others can open, understand, and reuse. Two projects are actively maintained for now; workflow templates, evaluation materials, and case studies are being prepared gradually.
+I don't really have a “portfolio,” but there are a few things I had a blast making. The code, examples, and instructions are in these repositories.
 
-- **[video-creative-agent](https://github.com/esmile-collab/video-creative-agent)**: organizes script, visual, and narrative patterns from industry videos, turning project experience into searchable, composable knowledge assets.
-- **[resume-agent](https://github.com/esmile-collab/resume-agent)**: connects resume matching, generation, section-level polishing, and export into one AI-assisted workflow.
+- **[Video creative workflow · video-creative-agent](https://github.com/esmile-collab/video-creative-agent)**: connects a Chinese spoken-video brief to strategy-card retrieval and script-request compilation, then turns an approved script into a reviewable, exportable storyboard. The public version includes a mock demo that needs no model API key; automated video understanding and final video rendering are outside its current scope.
+- **[Resume workspace · resume-agent](https://github.com/esmile-collab/resume-agent)**: supports resume-to-job fit scoring, tailored drafts, and section-level edits. Career experience, target roles, and document versions stay in one workspace for continued editing, diff review, and export.
+- **[Source-capture skills · information-collection](https://github.com/esmile-collab/information-collection)**: starts with a research question, selects capture routes for Bilibili, YouTube, X, Xiaohongshu, and Reddit, and preserves transcripts, posts, image text, and source records. Four installable skills organize existing tools for agents to use as needed; login authorization and platform access limits still apply.
+- **[Self-hosted proxy guide · vps-chain-agent-guide](https://github.com/esmile-collab/vps-chain-agent-guide)**: a guide for people unfamiliar with servers to work with an agent, from choosing a setup within their needs and budget to server deployment, client configuration, and network checks. It provides a skill, runbooks, and checklists; purchases, payments, and consequential changes require user confirmation.
 
 ## Lately
 
