@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.gif" width="100%" alt="一笑" />
+  <img src="https://raw.githubusercontent.com/esmile-collab/esmile-collab/main/assets/profile-banner.gif?v=960-20261105" width="100%" alt="一笑" />
 </div>
 
 <p align="center">
