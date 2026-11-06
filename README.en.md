@@ -13,39 +13,46 @@
 
 ## Hi, I'm Yixiao (一笑)
 
-I studied sociology as an undergraduate and I'm now pursuing a master's in social data analysis at the University of Hong Kong, while building AI products. Both trainings revolve around the same question: why people act, and how tools change the way they act.
+With a background in sociology and social data analytics, I worked on model evaluation at Tencent and AIGC advertising products at Bilibili. I keep working at the point where AI meets real business.
 
-My current focus is AIGC (AI-generated content) commercialization, AI products landing in real industries, and AI meeting physical business. Outside of work, I keep turning problems I've hit in real projects into reusable workflows and open-source projects — this page collects the parts that can be public.
+HKU · BJUT; based in Beijing.
 
-## What I'm Focused On
+This page brings together my experience, tools I've built for myself, and things I enjoy outside work. If something interests you, come say hello.
 
-Three questions I'm spending real time on:
+## What I've worked on
 
-- **Commercializing AIGC tools.** Generating once is easy; daring to rely on it every day is hard. Customers keep paying for "safe to use directly" — "able to generate" is just the entry ticket. What sits in between are evaluation standards, controllability, and platform review rules — the unglamorous parts that decide whether a tool survives.
-- **AI in physical business.** Model capability is becoming a commodity; context is the scarce part. The data and constraints inside stores, products, and operations are mostly unorganized. How to wire AI into real workflows so that efficiency, conversion, or delivery changes in verifiable ways.
-- **Productizing AI workflows.** Using AI well yourself is one thing; handing your workflow to someone else is another — tacit judgment, context, and acceptance criteria all have to be made explicit. How to turn personal AI practice into something others can understand, run, and reuse.
+Most recently, I worked on AIGC for Bilibili's advertising business, contributing to several projects as they scaled from 1 to 100, and joining an advertising-video generation project at its early 0-to-1 stage.
 
-## What I've Done
+Earlier, at WeChat, I worked on model evaluation, helped define what makes a good summary, and collaborated with external suppliers on data production and evaluation. At Meituan, I worked on user operations for an early-stage product, finding product problems in merchant feedback and customer complaints, and exploring its early growth and sources of value.
 
-- **Meituan — User Operations, In-store Business (2022).** During the expansion of the "Jisu Da" instant-delivery pilot, I worked on the ground with operations, spotted issues like inconsistent inventory display and inefficient manual listing from complaints and merchant feedback, and pushed operations-tool iterations through. First lesson: product problems start in the everyday troubles of people on the front line — reports and documents are secondhand evidence.
-- **Tencent WeChat — LLM Data Strategy & Evaluation (2023).** I participated in a content-summarization project for Official Accounts. "Is the summary good?" used to be a sentence no one could accept or reject; I helped break it into four checkable dimensions — factual fidelity, coverage, traceability, and readability — and build a dual LLM-plus-human evaluation pipeline. Vague quality judgments have to be translated into evidence before a model can iterate.
-- **Bilibili — Commercial AIGC Products (2026).** I participated in ad headline, cover, and video generation products, responsible for product iteration of specific modules, generation admission rules, online issue inspection, and industry validation. What this confirmed for me: generation quality is only the starting point — whether customers dare to use the output, and whether assets actually enter the delivery pipeline, decides whether the product stands.
-- **AIGC Stock Assets — independent project (2024–2025).** Around Adobe Stock's purchase scenarios and review rules, I built a full pipeline from topic selection and prompting to batch generation, post-processing, and tagging, with 800+ assets approved and real sales. The first time I closed the loop of "generation capability → platform rules → real transactions."
-- **TCG Campus Community — startup (2023–2024).** I built a trading-card player alliance across three universities, designed tournament rules, rewards, and a points system, connected the publisher, stores, and distribution channels, and ran 20+ events. First lesson: rule design is product design — get the incentives wrong and the community falls apart.
+Within AI and internet teams, people around you tend to understand how AI works and where its limits lie. In real business settings, that understanding varies widely. This keeps me interested in how people understand and use AI.
 
-These things look scattered, but they circle one question: how a generated result, a rule, or a tool earns acceptance among real people and real organizations.
+## Tools and workflows I've put together
 
-## Open Work
+Over time, I've built a toolchain for finding information, setting up infrastructure, and keeping useful context:
 
-I don't really have a “portfolio,” but there are a few things I had a blast making. The code, examples, and instructions are in these repositories.
+- **Finding information:** I built my own information-gathering toolchain. Find the evidence first, then make a judgment. The public parts are in [information-collection](https://github.com/esmile-collab/information-collection).
+- **Infrastructure:** I set up servers and study proxies to keep my toolchain in my own hands. I've also documented the setup process for others in [vps-chain-agent-guide](https://github.com/esmile-collab/vps-chain-agent-guide).
+- **Knowledge management:** I maintain a personal LLM knowledge base, turning articles, conversations, and reading notes into structures I can search and reuse. The context I accumulate stays mine.
 
-- **[Video creative workflow · video-creative-agent](https://github.com/esmile-collab/video-creative-agent)**: connects a Chinese spoken-video brief to strategy-card retrieval and script-request compilation, then turns an approved script into a reviewable, exportable storyboard. The public version includes a mock demo that needs no model API key; automated video understanding and final video rendering are outside its current scope.
-- **[Resume workspace · resume-agent](https://github.com/esmile-collab/resume-agent)**: supports resume-to-job fit scoring, tailored drafts, and section-level edits. Career experience, target roles, and document versions stay in one workspace for continued editing, diff review, and export.
-- **[Source-capture skills · information-collection](https://github.com/esmile-collab/information-collection)**: starts with a research question, selects capture routes for Bilibili, YouTube, X, Xiaohongshu, and Reddit, and preserves transcripts, posts, image text, and source records. Four installable skills organize existing tools for agents to use as needed; login authorization and platform access limits still apply.
-- **[Self-hosted proxy guide · vps-chain-agent-guide](https://github.com/esmile-collab/vps-chain-agent-guide)**: a guide for people unfamiliar with servers to work with an agent, from choosing a setup within their needs and budget to server deployment, client configuration, and network checks. It provides a skill, runbooks, and checklists; purchases, payments, and consequential changes require user confirmation.
+I've also built a [video creative workflow](https://github.com/esmile-collab/video-creative-agent) and a [resume workspace](https://github.com/esmile-collab/resume-agent). Code, examples, and instructions are in the respective repositories.
 
-## Lately
+## Things I explore out of interest
 
-I'm continuing to organize industry video knowledge and AI workflows, and turning observations from commercialized AIGC into concrete public case studies. I hope these serve as a useful reference for people working on AI products, content production, or AI in physical businesses.
+Starting from a board-game club, I brought players from three universities into a PTCG alliance. I designed tournament rules, rewards, and ranking systems, and connected the official organization, shops, teams, and people at each school.
 
-If you're working on something related, feel free to reach out with a specific question — what you're solving and where you're stuck is far more useful than small talk: [cyx791161473@outlook.com](mailto:cyx791161473@outlook.com), or [esmile.tech](https://esmile.tech).
+Along the way, I organized twenty to thirty tournaments. The player group grew to over two hundred people, with several dozen regularly joining in person.
+
+Lately, I've been trying ways to combine **games and AI**, using games as creative material and as frameworks for programs and development. I'm also studying independent business models: how game-distribution platforms work, how money flows, and who captures the value.
+
+## Outside work
+
+I spend some of my time in games. Card strategy and auto-battlers are my strongest genres. I've reached roughly the top 100 on the server in both Hearthstone and The Bazaar.
+
+I also play Monster Hunter, roguelikes, and indie games. Add me on Steam with friend code **1062442695**. For tabletop TCGs, I play PTCG, MTG, and OPCG. Pokémon is my strongest, and I've won a few prizes at city-level tournaments.
+
+## Say hello
+
+You can find me by email, Xiaohongshu, X, or Jike. Just mention where you found this page and what you'd like to talk about.
+
+[Email](mailto:cyx791161473@outlook.com) · [Xiaohongshu](https://xhslink.cn/m/oE4wU61ti8) · [X](https://x.com/nicknickch13677) · [Jike](https://m.okjike.com/users/04e15946-ce85-43e4-9649-3f5919c441cc) · [Homepage](https://esmile.tech)
