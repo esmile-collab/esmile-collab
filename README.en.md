@@ -27,6 +27,17 @@ Earlier, at WeChat, I worked on model evaluation, helped define what makes a goo
 
 Within AI and internet teams, people around you tend to understand how AI works and where its limits lie. In real business settings, that understanding varies widely. This keeps me interested in how people understand and use AI.
 
+## Output Showcase
+
+Two approaches from the advertising-video product demo: script-driven assembly and remixing from a successful reference. Click an animated preview to view the full video.
+
+| Script → assembly | Reference → remix |
+| --- | --- |
+| [![Personal-care product explainer · 10-second preview](https://raw.githubusercontent.com/esmile-collab/video-creative-agent/main/showcase/media/script-assembly-preview.gif)](https://github.com/esmile-collab/video-creative-agent/blob/main/showcase/media/script-assembly.mp4) | [![Game-development course · 10-second preview](https://raw.githubusercontent.com/esmile-collab/video-creative-agent/main/showcase/media/reference-remix-preview.gif)](https://github.com/esmile-collab/video-creative-agent/blob/main/showcase/media/reference-remix.mp4) |
+| Personal care · product explainer · full video about 60 seconds | Education · game-development course · full video about 95 seconds |
+
+See [Video Creative Agent](https://github.com/esmile-collab/video-creative-agent#output-showcase) for the public code, scope, and future examples.
+
 ## Tools and workflows I've put together
 
 Over time, I've built a toolchain for finding information, setting up infrastructure, and keeping useful context:

@@ -27,6 +27,17 @@ HKU · BJUT；Base 北京。
 
 在 AI 和互联网团队里，身边的人通常熟悉 AI 的原理和能力边界。到了真实的业务场景，不同背景的人对 AI 的理解差别很大。这也是我持续关注用户怎么理解、使用 AI 的原因。
 
+## 成果展示
+
+广告视频产品 Demo 的两条生成路线：脚本组装，以及参考爆款案例做裂变混剪。点击动态预览可查看完整成片。
+
+| 脚本 → 组装 | 爆款参考 → 裂变混剪 |
+| --- | --- |
+| [![日化产品讲解 · 10 秒预览](https://raw.githubusercontent.com/esmile-collab/video-creative-agent/main/showcase/media/script-assembly-preview.gif)](https://github.com/esmile-collab/video-creative-agent/blob/main/showcase/media/script-assembly.mp4) | [![游戏开发课程 · 10 秒预览](https://raw.githubusercontent.com/esmile-collab/video-creative-agent/main/showcase/media/reference-remix-preview.gif)](https://github.com/esmile-collab/video-creative-agent/blob/main/showcase/media/reference-remix.mp4) |
+| 日化 · 产品讲解 · 完整成片约 60 秒 | 教育 · 游戏开发课程 · 完整成片约 95 秒 |
+
+项目代码、范围说明和后续样例见 [Video Creative Agent](https://github.com/esmile-collab/video-creative-agent#成果展示)。
+
 ## 自己攒的工具和工作流
 
 为了找信息、搭工具和保存上下文，慢慢攒了一套自己用的东西：
