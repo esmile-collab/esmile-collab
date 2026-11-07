@@ -36,7 +36,7 @@ Two approaches from the advertising-video product demo: script-driven assembly a
 | [![Personal-care product explainer · 10-second preview](https://raw.githubusercontent.com/esmile-collab/video-creative-agent/main/showcase/media/script-assembly-preview.gif)](https://github.com/esmile-collab/video-creative-agent/blob/main/showcase/media/script-assembly.mp4) | [![Game-development course · 10-second preview](https://raw.githubusercontent.com/esmile-collab/video-creative-agent/main/showcase/media/reference-remix-preview.gif)](https://github.com/esmile-collab/video-creative-agent/blob/main/showcase/media/reference-remix.mp4) |
 | Personal care · product explainer · full video about 60 seconds | Education · game-development course · full video about 95 seconds |
 
-See [Video Creative Agent](https://github.com/esmile-collab/video-creative-agent#output-showcase) for the public code, scope, and future examples.
+See [Video Creative Agent](https://github.com/esmile-collab/video-creative-agent/blob/main/README.en.md#output-showcase) for the public code, scope, and future examples.
 
 ## Tools and workflows I've put together
 
